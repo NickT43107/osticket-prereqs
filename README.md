@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Step 1: Installing and enableing IIS (internet information services/with CGI and Common HTTP features)
-- Item 2
+- Step 2: Downloading and installing all necessary files, and process to activate them.
 - Item 3
 - Item 4
 - Item 5
