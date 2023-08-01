@@ -42,8 +42,7 @@ To get started after you have loaded up and logged into your remote desktop from
 <img width="212" alt="image" src="https://github.com/NickT43107/osticket-prereqs/assets/139840658/5b2c9db8-0d15-452e-b7f1-7ab7dd4c29c6">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Once everything is downloaded, you'll want to go ahead and start installing everything on to the virtual machine. You'll first want to create a directory for PHP, by first installing "PHP manager for IIS". Then you will want to create a file folder in "this PC" for PHP Zipped file download, take the contents from the "ZIPPED PHP 7.3.8" download and dump them into the file folder for PHP in "this PC", or C:/php for short. Install Rewrite Module/VC_redist.x86.exe. Now you will want to install MYSQL, once installed click typical setup->Launch Configuration Wizard->Standard Configuration. Then just create your username and Password for MYSQL.
 <br />
 
 <p>
