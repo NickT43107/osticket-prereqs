@@ -22,8 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Step 1: Installing and enableing IIS (internet information services/with CGI and Common HTTP features)
 - Step 2: Downloading and installing all necessary files, and process to activate them.
-- Item 3
-- Item 4
+- Step 3: Register PHP with IIS and download OSticketing files.
+- Step 4: Download and install HeidiSQL.
 - Item 5
 
 <h2>Installation Steps</h2>
@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-To get started after you have loaded up and logged into your remote desktop from azure. You will want to go down to start and right click on start, then click *run*, type in control panel. Once you've done that, you will want to go to programs and features, when you get there you will want to click turn on window features on or off. Then select the following in the picture.
+Step 1: To get started after you have loaded up and logged into your remote desktop from azure. You will want to go down to start and right click on start, then click *run*, type in control panel. Once you've done that, you will want to go to programs and features, when you get there you will want to click turn on window features on or off. Then select the following in the picture.
 </p>
 <br />
 
@@ -42,7 +42,12 @@ To get started after you have loaded up and logged into your remote desktop from
 <img width="212" alt="image" src="https://github.com/NickT43107/osticket-prereqs/assets/139840658/5b2c9db8-0d15-452e-b7f1-7ab7dd4c29c6">
 </p>
 <p>
-Once everything is downloaded, you'll want to go ahead and start installing everything on to the virtual machine. You'll first want to create a directory for PHP, by first installing "PHP manager for IIS". Then you will want to create a file folder in "this PC" for PHP Zipped file download, take the contents from the "ZIPPED PHP 7.3.8" download and dump them into the file folder for PHP in "this PC", or C:/php for short. Install Rewrite Module/VC_redist.x86.exe. Now you will want to install MYSQL, once installed click typical setup->Launch Configuration Wizard->Standard Configuration. Then just create your username and Password for MYSQL.
+Step 2: Once everything is downloaded, you'll want to go ahead and start installing everything on to the virtual machine. You'll first want to create a directory for PHP, by first installing "PHP manager for IIS". Then you will want to create a file folder in "this PC" for PHP Zipped file download, take the contents from the "ZIPPED PHP 7.3.8" download and dump them into the file folder for PHP in "this PC", or C:/php for short. Install Rewrite Module/VC_redist.x86.exe. Now you will want to install MYSQL, once installed click typical setup->Launch Configuration Wizard->Standard Configuration. Then just create your username and Password for MYSQL. 
+
+  Step 3: From here you will want to open IIS as admin, and register PHP within IIS. Next will be to Download osTicket from the Installation Files Folder
+Extract and copy “upload” folder to c:\inetpub\wwwroot
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
 <br />
 
 <p>
