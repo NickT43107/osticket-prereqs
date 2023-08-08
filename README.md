@@ -20,21 +20,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Step 1: 
-- Step 2: Downloading and installing all necessary files, and process to activate them.
-- Step 3: Register PHP with IIS and download OSticketing files.
-- Step 4: Download and install HeidiSQL.
-- Item 5
+- Step 1: launching Azure virtual machine.
+- Step 2: Opening IIS and enableing IIS.
+- Step 3: Downloading all necessary files.
+  
 
 <h2>Installation Steps</h2>
 
 <p>
 
-![image](https://github.com/NickT43107/osticket-prereqs/assets/139840658/1a3d202a-dd9c-44f2-b018-7e2cf8012637)
+<img width="169" alt="image" src="https://github.com/NickT43107/osticket-prereqs/assets/139840658/4d846699-407d-4017-9280-e02a3802a0d6">
+
 
 </p>
 <p>
-Step 1: To get started after you have loaded up and logged into your remote desktop from azure. You will want to go down to start and right click on start, then click *run*, type in control panel. Once you've done that, you will want to go to programs and features, when you get there you will want to click turn on window features on or off. Then select the following in the picture.
+Step 1: When you are done signing in or signing up to azure, you will see options 1 & 2 on the home screen of azure. First you will need to start a resource group in or to make a virtual machine. Once you have that taken care of you can start to make your virtual machine. 
+  
 </p>
 <br />
 
