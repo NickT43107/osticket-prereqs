@@ -59,8 +59,9 @@ Step 2: In order to open and enable IIS, go down to the search bar and type "Con
 <p>
 <img width="224" alt="image" src="https://github.com/NickT43107/osticket-prereqs/assets/139840658/faf12ca2-c329-411a-9670-6a8b3e115c1c">
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Step 3: This last step for this slide will be to download everything in the picture. Installation and setup will be in the next slide. Here is a link to everything that will neeed to be downloaded. https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 </p>
 <br />
 
