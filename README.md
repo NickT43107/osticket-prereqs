@@ -61,7 +61,7 @@ Step 2: In order to open and enable IIS, go down to the search bar and type "Con
 </p>
 
 <p>
-  Step 3: This last step for this slide will be to download everything in the picture. Installation and setup will be in the next slide. Here is a link to everything that will neeed to be downloaded. https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+  Step 3: This last step for this slide will be to download everything in the picture. Installation and setup will be in the next slide. Doesnt necessarly matter in which order that they are downloaded in. Here is a link to everything that will neeed to be downloaded. https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 </p>
 <br />
 
