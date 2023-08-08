@@ -49,7 +49,7 @@ Step 1: When you are done signing in or signing up to azure, you will see option
 <br />
 
 <p>
-
+<img width="182" alt="image" src="https://github.com/NickT43107/osticket-prereqs/assets/139840658/5cd61782-eb2a-41de-be97-040c28def059">
 </p>
 <p>
 
