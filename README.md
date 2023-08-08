@@ -31,23 +31,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="169" alt="image" src="https://github.com/NickT43107/osticket-prereqs/assets/139840658/4d846699-407d-4017-9280-e02a3802a0d6">
 
-
 </p>
 <p>
 Step 1: When you are done signing in or signing up to azure, you will see options 1 & 2 on the home screen of azure. First you will need to start a resource group in or to make a virtual machine. Once you have that taken care of you can start to make your virtual machine. 
   
+  - 1. Select the resourse group name.
+  - 2. Create a name of the virtual machine. 
+  - 3. Select windows for imagine.
+  - 4. Select the size of the CPU that you can afford, though I would recomend using 4VCPU with 16GIB for fast computing.
+  - 5. Create username and password to your chosing. 
+  - 6. Click the box at the end of the page for licensing.
+  - 7. Click Review and create.
+    
+  
+  Once azure is done loading, you can click the home button and it will bring you back to the home page where you can click on virtual machines. From there you can copy the virtual machines IP address, can go down to your computers search bar and type remote desktop. Type in your username and password, and you'll promptly be logged into your virtual machine.
 </p>
 <br />
 
 <p>
-<img width="212" alt="image" src="https://github.com/NickT43107/osticket-prereqs/assets/139840658/5b2c9db8-0d15-452e-b7f1-7ab7dd4c29c6">
+
 </p>
 <p>
-Step 2: Once everything is downloaded, you'll want to go ahead and start installing everything on to the virtual machine. You'll first want to create a directory for PHP, by first installing "PHP manager for IIS". Then you will want to create a file folder in "this PC" for PHP Zipped file download, take the contents from the "ZIPPED PHP 7.3.8" download and dump them into the file folder for PHP in "this PC", or C:/php for short. Install Rewrite Module/VC_redist.x86.exe. Now you will want to install MYSQL, once installed click typical setup->Launch Configuration Wizard->Standard Configuration. Then just create your username and Password for MYSQL. 
 
-  Step 3: From here you will want to open IIS as admin, and register PHP within IIS. Next will be to Download osTicket from the Installation Files Folder
-Extract and copy “upload” folder to c:\inetpub\wwwroot
-Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
 <br />
 
