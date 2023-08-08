@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Step 1: launching Azure virtual machine.
-- Step 2: Opening IIS and enableing IIS.
+- Step 2: Opening IIS and enableing IIS with CGI.
 - Step 3: Downloading all necessary files.
   
 
@@ -52,14 +52,12 @@ Step 1: When you are done signing in or signing up to azure, you will see option
 <img width="182" alt="image" src="https://github.com/NickT43107/osticket-prereqs/assets/139840658/5cd61782-eb2a-41de-be97-040c28def059">
 </p>
 <p>
-
+Step 2: In order to open and enable IIS, go down to the search bar and type "Control panel" go to programs and features->window features on or off. Then select everyting that is selected in the photo. Then go to the browser and type in localhost to check and make sure everything was done correctly.
 
 <br />
 
 <p>
-  
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<img width="224" alt="image" src="https://github.com/NickT43107/osticket-prereqs/assets/139840658/faf12ca2-c329-411a-9670-6a8b3e115c1c">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
